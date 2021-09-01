@@ -74,6 +74,7 @@ b. (9 - j6)
 ![](https://github.com/mjvilla1/ImagenesDeber8/blob/main/Ejercicio%2016.1.b.PNG)
 
 c. (-8 + j15)
+
 d. (-10 - j4)
 
 

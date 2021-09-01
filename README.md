@@ -125,7 +125,9 @@ fase del ángulo en grados.
 41. Dada v  30 sen(ωt - 45°) donde q  40p rad s. Dibuje la forma de onda.
 ¿En qué momento v llega a 0 V? ¿En qué momento alcanza 23 V y -23 V?
 
-![]()
+![](https://github.com/mjvilla1/ImagenesDeber8/blob/main/Ejercicio%2015.41.PNG)
+![](https://github.com/mjvilla1/ImagenesDeber8/blob/main/Ejercicio%2015.41.1.PNG)
+![](https://github.com/mjvilla1/ImagenesDeber8/blob/main/Ejercicio%2015.41.2.PNG)
 
 
 ## Capitulo 16

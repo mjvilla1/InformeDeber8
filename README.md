@@ -192,6 +192,12 @@ c. (4.1 - j7.6) + 12 < 20°
 
 =11.3+j4.1
 
+13. Para la figura 16-50, i1  25 sen (ωt + 36°) mA e i2  40 cos (ωt - 10°) mA.
+
+a. Determine los fasores I1, I2 e IT.
+
+b. Determine la ecuación para iT en el dominio del tiempo.
+
 # 4. Video
 
 https://youtu.be/dDsbOBywxTk

@@ -87,6 +87,16 @@ c. 100 ciclos en 4 s
  e. 5 periodos en 20 ms
  
  ![](https://github.com/mjvilla1/ImagenesDeber8/blob/main/Ejercicio%2015.27.PNG)
+ 
+ 29. Determine las ecuaciones para las ondas seno con lo siguiente:
+ 
+a. Vm  170 V, f  60 Hz 
+
+b. Im  40 μA, T  10 ms
+
+c. T  120 μs, v  10 V en t  12 μs
+
+![]()
 
 
 ## Capitulo 16

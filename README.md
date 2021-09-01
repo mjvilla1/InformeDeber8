@@ -189,7 +189,7 @@ c. (4.1 - j7.6) + 12 < 20°
 
 # 4. Video
 
-
+https://youtu.be/dDsbOBywxTk
 
 # 5. Conclusiones
 

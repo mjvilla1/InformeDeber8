@@ -67,7 +67,7 @@ f. 620°= 10,82 radianes
 25. Una onda seno de 20 kHz tiene un valor de 50 volts cuando t  5 μs. Determine Vm y dibuje la forma de onda.
 
 27. Calcule ὦ en radianes por segundo para cada uno de los siguientes casos:
-28. 
+ 
 a. T  100 ns 
 
 b. f  30 Hz 

@@ -62,7 +62,23 @@ f. 620°= 10,82 radianes
 
 23. Si el periodo de la forma de onda en la figura 15-80 es 180 ms, calcule la corriente en t  30, 75, 140 y 315 ms.
 
-25.Una onda seno de 20 kHz tiene un valor de 50 volts cuando t  5 μs. Determine Vm y dibuje la forma de onda.  
+![](https://github.com/mjvilla1/ImagenesDeber8/blob/main/Ejercicio%2015.23.PNG)
+
+25.Una onda seno de 20 kHz tiene un valor de 50 volts cuando t  5 μs. Determine Vm y dibuje la forma de onda.
+
+![](https://github.com/mjvilla1/ImagenesDeber8/blob/main/Ejercicio%2015.25.PNG)
+
+27. Calcule q en radianes por segundo para cada uno de los siguientes casos:
+
+a. T  100 ns
+
+b. f  30 Hz 
+
+c. 100 ciclos en 4 s
+
+ d. periodo  20 ms
+ 
+ e. 5 periodos en 20 ms
 
 
 ## Capitulo 16

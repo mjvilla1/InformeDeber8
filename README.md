@@ -81,6 +81,23 @@ d. (-10 - j4)
 ![](https://github.com/mjvilla1/ImagenesDeber8/blob/main/Ejercicio%2016%20c-d.JPG)
 
 
+3.-Grafique cada uno de los siguientes valores en el plano complejo:
+
+a.(4 + j6)
+
+![](https://github.com/mjvilla1/ImagenesDeber8/blob/main/Ejercicio%2016.3%20a.JPG)
+
+b.(j4)
+
+![](https://github.com/mjvilla1/ImagenesDeber8/blob/main/Ejercicio%2016.3%20b.JPG)
+
+c.(6 < -90°)
+
+![](https://github.com/mjvilla1/ImagenesDeber8/blob/main/Ejercicio%2016.3%20c.JPG)
+
+d.(10 < 135°)
+
+![](https://github.com/mjvilla1/ImagenesDeber8/blob/main/Ejercicio%2016.3%20d.JPG)
 
 # 4. Video
 

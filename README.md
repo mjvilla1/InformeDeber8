@@ -5,21 +5,20 @@ Integrantes:César Garnica  -  Jonathan Insuasti -  Melany Villa
 # 1. Objetivos
     - Objetivo General
      
-    Analizar los distintos temas de los capítulos 15 y 16 que nos permitirán identificar las diferentes funcionalidades que tiene la
-    inductancia y los inductores junto  a los transiistorios inductivos  mediante la realización de ejercicios para poder reforzar 
-    el conocimiento adquirido y ponerlo en práctica en la realización de circuitos eléctricos y sus fundamentos de la corriente alterna
-    loa componentes y las distintas funciones que presentan como la resistencia inductancia y capacitancia 
+    Analizar los distintos temas de los capítulos 15 y 16 que nos permitirán identificar las diferentes
+    funcionalidades que tiene la inductancia y los inductores junto  a los transiistorios inductivos  mediante 
+    la realización de ejercicios para poder reforzar el conocimiento adquirido y ponerlo en práctica en la 
+    realización de circuitos eléctricos y sus fundamentos de la corriente alterna los componentes y las distintas
+    funciones que presentan como la resistencia inductancia y capacitancia 
             
     - Objetivos Específicos  
     
         - Estudiar las caracter´ısticas de un circuito RLC serie de corriente alterna.
         - Determinar la impedancia total y las reactancias inductivas, capacitivas en el circuito y compararlas 
         con los valores teoricos.
-        - Estudiar los efectos sobre la corriente alterna en un circuito serie, con resistencia, autoinducción y capacidad
-        (RLC).
-   
-     
-     
+        - Estudiar los efectos sobre la corriente alterna en un circuito serie, con resistencia, 
+        autoinducción y capacidad (RLC).
+        
 # 2. Marco Teórico
 
 ![](https://github.com/mjvilla1/ImagenesDeber8/blob/main/RCL.PNG)

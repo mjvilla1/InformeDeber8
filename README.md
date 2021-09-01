@@ -119,6 +119,24 @@ d.(10 < 135°)
 
 ![](https://github.com/mjvilla1/ImagenesDeber8/blob/main/Ejercicio%2016.3%20d.JPG)
 
+5.-Exprese sus respuestas en forma rectangular.
+
+a. (4 + j8) + (3 - j2)
+
+4+j8+3-2= 7 + j6
+
+b. (4 + j8) - (3 - j2)
+
+4+j8-3+j2 = 1 + j10
+
+c. (4.1 - j7.6) + 12 < 20°
+
+12(Cos20° + jsen20°)
+
+12(0,9397+ j0,342)
+
+11.3+j4.1
+
 # 4. Video
 
 

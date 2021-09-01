@@ -220,6 +220,24 @@ a. ¿Cuánto valen vR1 y vR2?
 
 b. Calcule vT = vR1 + vR2 y compárelo con vT calculada a partir de vT  i RT
 
+![](https://github.com/mjvilla1/ImagenesDeber8/blob/main/Ejercicio%2016.19.PNG)
+
+21. Para la figura 16-53, Vm  10 V e Im  5 A. Para cada expresión, determine la
+cantidad solicitada.
+
+a. vL  10 sen (ωt + 60°) V, iL 
+
+b. vL  10 sen (ωt - 15°) V, iL 
+
+c. iL  5 cos (ωt - 60°) A, vL  
+
+d. iL  5 sen (ωt + 10°) A, vL  
+
+
+23. Para la figura 16-53, e  100 sen qt y L  0.5 H. Determine iL a. . .
+
+a. 60 Hz b. 1000 Hz c. 500 rad s
+
 # 4. Video
 
 https://youtu.be/dDsbOBywxTk

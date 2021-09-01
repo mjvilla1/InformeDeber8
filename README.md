@@ -127,6 +127,7 @@ fase del ángulo en grados.
 
 ![](https://github.com/mjvilla1/ImagenesDeber8/blob/main/Ejercicio%2015.41.PNG)
 ![](https://github.com/mjvilla1/ImagenesDeber8/blob/main/Ejercicio%2015.41.1.PNG)
+
 ![](https://github.com/mjvilla1/ImagenesDeber8/blob/main/Ejercicio%2015.41.2.PNG)
 
 

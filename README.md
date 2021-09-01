@@ -213,6 +213,13 @@ d. i  -17 cos (ωt - 67°) μA, v
 
 ![](https://github.com/mjvilla1/ImagenesDeber8/blob/main/Ejercicio%2016.17.PNG)
 
+19. Dos resistores R1  10 kΩ y R2  12.5 kΩ están en serie. Si i  14.7 sen (ωt
++ 39°) mA,
+
+a. ¿Cuánto valen vR1 y vR2?
+
+b. Calcule vT = vR1 + vR2 y compárelo con vT calculada a partir de vT  i RT
+
 # 4. Video
 
 https://youtu.be/dDsbOBywxTk

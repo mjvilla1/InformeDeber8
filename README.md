@@ -63,6 +63,19 @@ f. 620°= 10,82 radianes
 
 ## Capitulo 16
 
+1.-Convierta cada uno de los siguientes números a forma polar:
+
+a. (5 + j12)
+
+![](https://github.com/mjvilla1/ImagenesDeber8/blob/main/Ejercicio%2016.1.PNG)
+
+b. (9 - j6)
+
+![](https://github.com/mjvilla1/ImagenesDeber8/blob/main/Ejercicio%2016.1.b.PNG)
+
+c. (-8 + j15)
+d. (-10 - j4)
+![](https://github.com/mjvilla1/ImagenesDeber8/blob/main/Ejercicio%2016%20c-d.JPG)
 
 
 

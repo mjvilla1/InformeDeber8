@@ -97,6 +97,11 @@ c. T  120 μs, v  10 V en t  12 μs
 
 ![](https://github.com/mjvilla1/ImagenesDeber8/blob/main/Ejercicio%2015.29.PNG)
 
+31. Una onda seno tiene un voltaje pico a pico de 40 V y T  50 ms. Determine
+su ecuación.
+
+![](
+
 
 ## Capitulo 16
 

@@ -37,7 +37,8 @@ Integrantes:César Garnica  -  Jonathan Insuasti -  Melany Villa
 
 b. Para la figura 15-74, determine los voltajes instantáneos en t 0, 1, 2, 3,4, 5, 6, 7 y 8 ms.
 
-5.- La fuente de la figura 15-76 tiene la forma de onda de la figura 15-74. Deter- mine la corriente en t= 0, 1, 2, 3, 4, 5, 6, 7, y 8 ms. Incluya el signo.
+5.- La fuente de la figura 15-76 tiene la forma de onda de la figura 15-74. 
+Determine la corriente en t= 0, 1, 2, 3, 4, 5, 6, 7, y 8 ms. Incluya el signo.
 
 7.- Para cada uno de los siguientes, determine la frecuencia: a. T=0.5 s b. T=100 s c. 5T=80 us
 

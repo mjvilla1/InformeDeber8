@@ -48,13 +48,17 @@ b. Para la figura 15-74, determine los voltajes instantáneos en t 0, 1, 2, 3,4,
 
 ![](https://github.com/mjvilla1/ImagenesDeber8/blob/main/F%C3%B3rmula%20radianes.PNG)
 
-a. 10° 
-b. 25° 
-c. 80°
-d. 150°
-e. 350°
-c. 80° 
-f. 620
+a. 10°= 0,17 radianes  
+
+b. 25°= 0,44 radianes 
+
+c. 80°= 1,40 radianes 
+
+d. 150°= 2,62 radianes
+
+e. 350°= 6,11 radianes
+
+f. 620°= 10,82 radianes 
 
 
 ## Capitulo 16

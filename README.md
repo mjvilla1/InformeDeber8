@@ -95,7 +95,7 @@ b. Im  40 μA, T  10 ms
 
 c. T  120 μs, v  10 V en t  12 μs
 
-![]()
+![](https://github.com/mjvilla1/ImagenesDeber8/blob/main/Ejercicio%2015.29.PNG)
 
 
 ## Capitulo 16

@@ -110,7 +110,7 @@ su ecuación.
 35. Escriba las ecuaciones para las formas de onda de la figura 15-82. Exprese la
 fase del ángulo en grados.
 
-
+![](https://github.com/mjvilla1/ImagenesDeber8/blob/main/Ejercicio%2015.35.PNG)
 
 
 ## Capitulo 16

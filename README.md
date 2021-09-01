@@ -12,11 +12,17 @@ Integrantes:César Garnica  -  Jonathan Insuasti -  Melany Villa
             
     - Objetivos Específicos  
     
+        - Estudiar las caracter´ısticas de un circuito RLC serie de corriente alterna.
+        - Determinar la impedancia total y las reactancias inductivas, capacitivas en el circuito y compararlas 
+        con los valores teoricos.
+        - Estudiar los efectos sobre la corriente alterna en un circuito serie, con resistencia, autoinducción y capacidad
+        (RLC).
    
      
      
 # 2. Marco Teórico
 
+![](https://github.com/mjvilla1/ImagenesDeber8/blob/main/RCL.PNG)
 
 # 3. Explicación y Resolución
 
@@ -79,6 +85,8 @@ c. 100 ciclos en 4 s
  d. periodo  20 ms
  
  e. 5 periodos en 20 ms
+ 
+ ![](https://github.com/mjvilla1/ImagenesDeber8/blob/main/Ejercicio%2015.27.PNG)
 
 
 ## Capitulo 16
@@ -143,7 +151,12 @@ c. (4.1 - j7.6) + 12 < 20°
 
 # 5. Conclusiones
 
-
+- Para concluir podemos decir que se logró el aprendizaje acerca de un circuito RLC con todos sus componentes  como lo son el resistor,
+capacitor y el inductor o bobina.
+- Nos podemos dar cuenta que los circuitos RLC son utilizados como filtro al reemplazar la formula nos queda de frecuencia o de transformadores de 
+impedancia, es los circuitos RLC se. pueden comportar múltiples inductancias y condensadores.
+- En un circuito RCL, la corriente va hacer la misma para todos sus componentes, Es aplicable la ley de OHM cambiando sus variables siendo la resistencia,
+siendo igual a su independencia.
 
 # 6.Bibliografia 
 

@@ -29,6 +29,10 @@ Integrantes:César Garnica  -  Jonathan Insuasti -  Melany Villa
 
 1.- ¿A que se refiere “voltaje de ca” y “corriente de ca"?
 
+- El voltaje en corriente alterna su polaridad varia entre positiva y negativa
+
+- La corriente en  corriente alterna su dirección varía periodicamente
+
 3.- a. ¿Qué significa valor instantáneo? 
 
 b. Para la figura 15-74, determine los voltajes instantáneos en t 0, 1, 2, 3,4, 5, 6, 7 y 8 ms.

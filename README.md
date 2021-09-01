@@ -46,7 +46,8 @@ b. Para la figura 15-74, determine los voltajes instantáneos en t 0, 1, 2, 3,4,
 
 21.- Convierta los siguientes ángulos de grados a radianes:
 
-                             ![]( https://github.com/mjvilla1/ImagenesDeber8/blob/main/F%C3%B3rmula%20radianes.PNG)
+![](https://github.com/mjvilla1/ImagenesDeber8/blob/main/F%C3%B3rmula%20radianes.PNG)
+
 a. 10° 
 b. 25° 
 c. 80°

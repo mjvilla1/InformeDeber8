@@ -192,11 +192,26 @@ c. (4.1 - j7.6) + 12 < 20°
 
 =11.3+j4.1
 
-13. Para la figura 16-50, i1  25 sen (ωt + 36°) mA e i2  40 cos (ωt - 10°) mA.
+15. Para la figura 16-18, i1  7 sen qt mA, i2  4 sen (ωt - 90°) mA e i3 
+6 sen (ωt + 90°) mA.
 
-a. Determine los fasores I1, I2 e IT.
+a. Determine los fasores I1, I2, I3 e IT
 
 b. Determine la ecuación para iT en el dominio del tiempo.
+
+![](https://github.com/mjvilla1/ImagenesDeber8/blob/main/Ejercicio%2016.15.PNG)
+
+17. Para la figura 16-52, R  12 Ω. Para cada uno de los siguientes casos determine la corriente o voltaje y grafíquelo.
+
+a. v  120 sen ωt V, i 
+
+b. v  120 sen (ωt + 27°) V, i  
+
+c. i  17 sen (ωt - 56°) mA, v  
+
+d. i  -17 cos (ωt - 67°) μA, v  
+
+![](https://github.com/mjvilla1/ImagenesDeber8/blob/main/Ejercicio%2016.17.PNG)
 
 # 4. Video
 

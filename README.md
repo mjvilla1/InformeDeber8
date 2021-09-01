@@ -233,10 +233,13 @@ c. iL  5 cos (ωt - 60°) A, vL
 
 d. iL  5 sen (ωt + 10°) A, vL  
 
+![](https://github.com/mjvilla1/ImagenesDeber8/blob/main/Ejercicio%2016.21.PNG)
 
 23. Para la figura 16-53, e  100 sen qt y L  0.5 H. Determine iL a. . .
 
 a. 60 Hz b. 1000 Hz c. 500 rad s
+
+![](https://github.com/mjvilla1/ImagenesDeber8/blob/main/Ejercicio%2016.23.PNG)
 
 # 4. Video
 

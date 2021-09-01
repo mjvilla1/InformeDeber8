@@ -42,7 +42,7 @@ b. Para la figura 15-74, determine los voltajes instantáneos en t 0, 1, 2, 3,4,
 
 17.- Dado el voltaje v=Vm sen a. Si Vm=240 V, ¿qué valor tiene v cuando a=37°?
 
-19.- Un voltaje sinusoidal tiene un valor de 50 V cuando a=150°�¿Qué valor tiene Vm?
+19.- Un voltaje sinusoidal tiene un valor de 50 V cuando a=150° ¿Qué valor tiene Vm?
 
 21.- Convierta los siguientes ángulos de grados a radianes:
 

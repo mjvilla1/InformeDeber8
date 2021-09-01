@@ -112,6 +112,9 @@ fase del ángulo en grados.
 
 ![](https://github.com/mjvilla1/ImagenesDeber8/blob/main/Ejercicio%2015.35.PNG)
 
+37. Dada v  5 sen(ωt + 45°). Si q  20p rad s, ¿qué valor tiene v cuando t 
+20, 75 y 90 ms?
+
 
 ## Capitulo 16
 
